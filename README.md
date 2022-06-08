@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Upendra2003
 - 👀 I’m interested in coding,browsing net
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on some MNC
 - 📫 How to reach me upendrakarimi2003@gmail.com
 
