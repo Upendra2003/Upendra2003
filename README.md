@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **React,Front-end,Python**
+- 💬 Ask me about **React,Flask,Python**
 
 - 📫 How to reach me **upendrakarimi2003@gmail.com**
 
