@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer and graphic designer!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" />
 
-<p align="left" margin=10> Hello everyone, I am Upendra currently pursuing my 2nd year bachelor's degree from IIIT Bhubaneswar.Passionate programmer and problem solver, dedicated to crafting elegant and efficient solutions. I thrive in collaborative environments and enjoy tackling complex challenges. With a strong foundation in software development and a constant hunger for learning, I constantly explore new technologies and frameworks to stay at the forefront of innovation. My goal is to create impactful and user-friendly applications that make a difference in people's lives. Let's build something amazing together! </p>
+<p align="left" margin=10> Hello everyone, I am Upendra currently pursuing my 2nd year bachelor's degree from IIIT Bhubaneswar.Passionate programmer and problem solver, dedicated to crafting elegant and efficient solutions. I thrive in collaborative environments and enjoy tackling complex challenges. I constantly explore new technologies and frameworks to stay at the forefront of innovation. My goal is to create impactful and user-friendly applications that make a difference in people's lives. Let's build something amazing together! </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2003&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/karimiupendra" target="blank"><img src="https://img.shields.io/twitter/follow/karimiupendra?logo=twitter&style=for-the-badge" alt="karimiupendra" /></a> </p>
