@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Upendra</h1>
 <h3 align="center">A passionate web developer and graphic designer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upendra2003&label=Profile%20views&color=0e75b6&style=flat" alt="upendra2003" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upendra2003" alt="upendra2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/karimiupendra" target="blank"><img src="https://img.shields.io/twitter/follow/karimiupendra?logo=twitter&style=for-the-badge" alt="karimiupendra" /></a> </p>
+  
+  <p align="left"> <a href="https://twitter.com/karimiupendra" target="blank"><img src="https://img.shields.io/twitter/follow/karimiupendra?logo=twitter&style=for-the-badge" alt="karimiupendra" /></a> </p>
 
 - 🔭 I’m currently working on [Dev-Search](https://github.com/Upendra2003/Django/tree/main/devsearch)
 
@@ -17,7 +17,6 @@
 - 💬 Ask me about **React,Front-end,Python,Django**
 
 - 📫 How to reach me **upendrakarimi2003@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
