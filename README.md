@@ -1,4 +1,4 @@
-![Blue Yellow Retro Quotes Twitter Header](https://github.com/Upendra2003/Upendra2003/assets/96371563/54fb7c99-a5e2-4a03-b96e-96bfc2d4b07e)
+[![An image of @upendra2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/upendra2003)](https://holopin.io/@upendra2003)
 <h1 align="center">Hi 👋, I'm Upendra</h1>
 <h3 align="center">A passionate web developer and graphic designer!</h3>
 
