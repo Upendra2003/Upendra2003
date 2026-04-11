@@ -1,4 +1,3 @@
-[![An image of @upendra2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/upendra2003)](https://holopin.io/@upendra2003)
 <h1 align="center">Hi 👋, I'm Upendra</h1>
 <h3 align="center">Reseacher</h3>
 
