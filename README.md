@@ -1,6 +1,6 @@
 [![An image of @upendra2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/upendra2003)](https://holopin.io/@upendra2003)
 <h1 align="center">Hi 👋, I'm Upendra</h1>
-<h3 align="center">A passionate web developer and graphic designer!</h3>
+<h3 align="center">Reseacher</h3>
 
 
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Dev-Search<br><br>🌱 I’m currently learning Django<br><br>👨‍💻 My Portfolio https://upendra-portfolio.netlify.app/<br><br>💬 Ask me about React,Front-end,Python,Django<br><br>📫 How to reach me upendrakarimi2003@gmail.com</p>
+<p align="left">Scholar at IIT Tirupati</p>
 
 ###
 
