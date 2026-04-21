@@ -1,30 +1,43 @@
 <h1 align="center">Hi 👋, I'm Upendra</h1>
-<h3 align="center">Reseacher</h3>
+<h3 align="center">Researcher @ IIT Tirupati | AI • SE • HCI</h3>
 
+<table>
+<tr>
+<td width="40%" align="center">
 
+<img width="250" src="https://github.com/user-attachments/assets/d5c69c09-55be-4c88-aae3-eec3c12b1827" />
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif"  />
-</div>
+</td>
 
-###
+<td width="60%" align="left">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/karimi-upendra-b56b81262/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@BtechThings" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/upendra.10/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-<h3 align="left">👩‍💻  About Me</h3>
+### 🔗 Connect with me
 
-###
+<a href="https://www.linkedin.com/in/karimi-upendra-b56b81262/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" />
+</a>
 
-<p align="left">Scholar at IIT Tirupati</p>
+<a href="https://www.youtube.com/@BtechThings" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" />
+</a>
+
+<a href="https://www.instagram.com/upendra.10/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Scholar at IIT Tirupati  
+- 🔬 Working on Compliance, Software Engineering, and HCI  
+- 🤖 Exploring AI and developer tools  
+- 🎥 Creator of Telugu Vibe Coder (coming back soon)  
+- ⚡ Curious builder who likes experimenting with new ideas  
 
 ###
 
